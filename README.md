@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LeetCode Practice Notes](https://arashabzd.github.io/posts/leetcode-practice-notes/)
+- [Minimum Viable Vim in VSCode](https://arashabzd.github.io/posts/mvvim/)
 <!-- BLOG-POST-LIST:END -->
