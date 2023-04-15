@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=arashabzd)
-
 <!--
 **arashabzd/arashabzd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,3 +20,5 @@ Here are some ideas to get you started:
 - [LeetCode Practice Notes](https://arashabzd.github.io/posts/leetcode-practice-notes/)
 - [Minimum Viable Vim in VSCode](https://arashabzd.github.io/posts/mvvim/)
 <!-- BLOG-POST-LIST:END -->
+
+![](https://komarev.com/ghpvc/?username=arashabzd)
