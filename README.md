@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MAchine Learning Project Template](https://arashabzd.github.io/posts/mlproject-template/)
 - [NBConvert Pre-commit Hook for Saving Notebook Reports](https://arashabzd.github.io/posts/nbconvert-pre-commit/)
 - [LeetCode Practice](https://arashabzd.github.io/posts/leetcode-practice/)
 - [Minimum Viable Vim in VSCode](https://arashabzd.github.io/posts/mvvim/)
