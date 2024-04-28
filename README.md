@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - [NBConvert Pre-commit Hook for Saving Notebook Reports](https://arashabzd.github.io/posts/nbconvert-pre-commit/)
 - [LeetCode Practice](https://arashabzd.github.io/posts/leetcode-practice/)
 - [Minimum Viable Vim in VSCode](https://arashabzd.github.io/posts/mvvim/)
-- [Soft Margin SVM Theory and Implementation with CVXOPT](https://arashabzd.github.io/posts/SVM/)
+- [Reinforcement Learning Notes](https://arashabzd.github.io/posts/RL/)
 <!-- BLOG-POST-LIST:END -->
 
 ![](https://komarev.com/ghpvc/?username=arashabzd)
