@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Notes on Kolmogorov–Arnold Networks](https://arashabzd.github.io/posts/kan/)
 - [Notes on Statistics](https://arashabzd.github.io/posts/stats/)
 - [Machine Learning Project Template](https://arashabzd.github.io/posts/mlproject-template/)
 - [NBConvert Pre-commit Hook for Saving Notebook Reports](https://arashabzd.github.io/posts/nbconvert-pre-commit/)
 - [LeetCode Practice](https://arashabzd.github.io/posts/leetcode-practice/)
-- [Minimum Viable Vim in VSCode](https://arashabzd.github.io/posts/mvvim/)
 <!-- BLOG-POST-LIST:END -->
 
 ![](https://komarev.com/ghpvc/?username=arashabzd)
